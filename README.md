@@ -24,7 +24,7 @@
 ## Assignment3
 
 - [x] Q1: Image Captioning with Vanilla RNNs (25 points)
-- [ ] Q2: Image Captioning with LSTMs (30 points)
+- [x] Q2: Image Captioning with LSTMs (30 points)
 - [ ] Q3: Network Visualization: Saliency maps, Class Visualization, and Fooling Images (15 points)
 - [ ] Q4: Style Transfer (15 points)
 - [ ] Q5: Generative Adversarial Networks (15 points)
